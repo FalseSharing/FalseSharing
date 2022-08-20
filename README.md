@@ -1,3 +1,8 @@
 # FalseSharing
 
-Software developer exploring systems programming, C, and Python.
+Software engineer focusing on low-level systems programming, algorithms, and networking.
+
+### Languages
+- C
+- Python
+- Shell
