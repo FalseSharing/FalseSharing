@@ -1,8 +1,9 @@
 # FalseSharing
 
-Software engineer focusing on low-level systems programming, algorithms, and networking.
+Systems software developer.
 
-### Languages
-- C
+### Tech Stack
+- C / C++
 - Python
-- Shell
+- Lua / Luau
+- Linux
