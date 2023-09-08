@@ -1,9 +1,7 @@
 # FalseSharing
 
-Systems software developer.
+Systems developer focusing on networking, concurrency, and tooling.
 
-### Tech Stack
-- C / C++
-- Python
-- Lua / Luau
-- Linux
+### Stack
+- C, C++, Python, Lua, Go
+- Linux, Docker
