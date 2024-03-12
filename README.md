@@ -1,7 +1,8 @@
 # FalseSharing
 
-Systems developer focusing on networking, concurrency, and tooling.
+Systems & Infrastructure Engineer.
 
-### Stack
-- C, C++, Python, Lua, Go
-- Linux, Docker
+### Specialization
+- Low-latency systems and concurrency
+- Database replication (MariaDB, MySQL, Redis)
+- SysOps and Linux container orchestration
