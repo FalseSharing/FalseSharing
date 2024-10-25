@@ -1,8 +1,9 @@
 # FalseSharing
 
-Systems & Infrastructure Engineer.
+Systems Engineer &bull; Low-Latency Architecture &bull; Infrastructure
 
-### Specialization
-- Low-latency systems and concurrency
-- Database replication (MariaDB, MySQL, Redis)
-- SysOps and Linux container orchestration
+### Languages
+C++, C, Rust, Go, Python, Lua, Java, C#, TypeScript
+
+### Infrastructure
+Linux, SysOps, Docker, MariaDB, Redis, MySQL
