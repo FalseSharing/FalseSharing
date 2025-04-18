@@ -1,9 +1,5 @@
 # FalseSharing
 
-Systems Engineer &bull; Low-Latency Architecture &bull; Infrastructure
+Systems Engineer &bull; Low-Latency Concurrency &bull; Infrastructure
 
-### Languages
-C++, C, Rust, Go, Python, Lua, Java, C#, TypeScript
-
-### Infrastructure
-Linux, SysOps, Docker, MariaDB, Redis, MySQL
+Focusing on lock-free algorithms, hardware cacheline alignment, and high-throughput pipelines.
