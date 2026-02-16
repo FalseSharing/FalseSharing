@@ -1,5 +1,5 @@
 # FalseSharing
 
-Systems Engineer &bull; Low-Latency Concurrency &bull; Infrastructure
+Systems Software Engineer &bull; Low-Latency Concurrency &bull; Infrastructure
 
-Specialized in memory architecture, zero-copy buffers, and database replication.
+Detailed breakdown of core languages, systems tooling, and storage pipelines.
