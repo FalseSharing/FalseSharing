@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Skillicons](https://skillicons.dev/icons?i=cpp,c,rust,go,python,lua,ts,js,bash,linux,docker,mariadb,redis,postgres&theme=dark)](https://skillicons.dev)
+[![Skillicons](https://skillicons.dev/icons?i=cpp,c,rust,go,python,java,lua,ts,js,bash,linux,docker,mysql,redis,postgres&theme=dark)](https://skillicons.dev)
 
 <br/>
 
